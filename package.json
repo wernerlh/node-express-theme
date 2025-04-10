@@ -1,0 +1,32 @@
+{
+  "name": "node-express-theme",
+  "displayName": "Node Express Theme",
+  "description": "Node Express - A sophisticated dark theme optimized for Node.js and Express development",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.99.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Node Express Dark Professional",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Node Express Dark Professional-color-theme.json"
+      }
+    ]
+  },
+  "icon": "icon/icon.png",
+  "author": {
+    "name": "Juan Jose LH",
+    "email": "juan.lazo@uni.pe",
+    "url": "https://www.linkedin.com/in/juanjoselazohoyos/"
+  },
+  "repository": {
+    "url": "https://github.com/wernerlh/node-express-theme",
+    "type": "git"
+  },
+  "publisher": "juanjo-LH"
+}
